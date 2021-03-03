@@ -49,4 +49,4 @@ let server = http.createServer(function(request, response){    // 创建服务
 })
 
 server.listen(port);
-console.log('监听 ' + port + ' 成功\n 请在浏览器中打开 http://localhost:' + port)
+console.log('监听 ' + port + ' 成功!\n 请在浏览器中打开 http://localhost:' + port)
